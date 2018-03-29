@@ -14,3 +14,8 @@ Vector data analysis of points, lines, & polygons is a relatively new capability
 Vector data in GEE follow GeoJSON nomenclature. So these can be geometries in the form of a `Point`, `LineString`, `Polygon`, `MultiPoint`, `MultiLineString`, and `MultiPolygon`. More thorough descriptions are always kept up to date [here](http://geojson.org) from the GeoJSON gods, but one can think of all these options as just different kinds of `shapefiles`, e.g. a point, line, or polgyon `feature class` in ArcGIS.
 
 For our purposes, the all these geometry formats can fall into 2 primary categories: a `Feature` or `Feature Collection`. In similar fashion to GEE imagery formatting, a single vector geometry is a `Feature` whereas a group of features aggregate to a `Feature Collection`. Once again, the key functional distinction is that depending on which data type space you are in, you are able to access different parts of the GEE library. For example, the `.buffer()` function only exists for `Feature` data types so if one wants to buffer a bunch of features, a simple buffer function needs to be built before applying it all said features.
+
+## Working Environment:
+What is most likely the steepest learning curve for Arc-users making the jump to GEE is using the `Javascript Playground`. Although it looks rather simplistic, there is quite a bit of useful nuance the further we dive in so use this screenshot below for reference as we'll be coming back to its labels quite often.
+
+![alt](../master/images/gee_working_env.png?raw=true "GEE Working Environment")

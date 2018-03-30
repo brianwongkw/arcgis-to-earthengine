@@ -26,3 +26,9 @@ There are two main places to look if one cannot debug an issue or figure out a n
 1.) [The Google Earth Engine Developer's Guide](https://developers.google.com/earth-engine/): this is a fantastic resource that provides both commentary and sample code chunks to work through. There is almost too much to work through so the Search Bar is quite helpful here if you have specific need. Keep in mind, though, that this is primarily to get someone off the ground so the code samples are not terribly in depth spatial analyses since their function are too demonstrate technical features.
 
 2.) [The Google Earth Engine Developers Google Group](https://groups.google.com/forum/#!forum/google-earth-engine-developers): you'll need to request for permissions, but this is where the bleeding edge of all things Earth Engine occurs. It's fantastic for posting questions, but also searching the archive for answers to challenges that others have previously faced. Think of this as the Earth Engine-Stackoverflow. One of my personal favorite things on the forums is to see the unveliebly creative scripts posted to achieve custom analyses. I highly recommend leaning on this more & more after getting comfortable with the basics as I've learned more from working through other folks' scripts than anything else.
+
+## Sample Scripts:
+I'll update this list to make it a more progressive learning curve, but here are a few to start checking out.
+
+* [Tasseled Cap Transformation for Landsat-7 Scene in NC](https://code.earthengine.google.com/f209da7cfda9abee4b56967bec20d6de)
+* [Temporal NDVI User-Interface at HUC12 Watershed level in Appalachia](https://code.earthengine.google.com/d57044ac966ccf89116a05ff8f99f870)

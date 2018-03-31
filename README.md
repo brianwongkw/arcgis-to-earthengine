@@ -30,5 +30,6 @@ There are two main places to look if one cannot debug an issue or figure out a n
 ## Sample Scripts:
 I'll update this list to make it a more progressive learning curve, but here are a few to start checking out.
 
-* [Tasseled Cap Transformation for Landsat-7 Scene in NC](https://code.earthengine.google.com/f209da7cfda9abee4b56967bec20d6de)
-* [Temporal NDVI User-Interface at HUC12 Watershed level in Appalachia](https://code.earthengine.google.com/d57044ac966ccf89116a05ff8f99f870)
+* [Tasseled Cap Transformation for Landsat-7 Scene in NC](https:://code.earthengine.google.com/f209da7cfda9abee4b56967bec20d6de)
+
+* [Temporal NDVI User-Interface at HUC12 Watershed level in Appalachia](https:://code.earthengine.google.com/d57044ac966ccf89116a05ff8f99f870)

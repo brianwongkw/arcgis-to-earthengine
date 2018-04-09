@@ -2,7 +2,7 @@
 For ArcGIS users looking to make the not-so-subtle leap to Google Earth Engine
 
 ### First Things First
-Sign-up for GEE here: https://earthengine.google.com/new_signup/
+Sign-up for Google Earth Engine here: https://earthengine.google.com/new_signup/
 
 ## Objective:
 The beauty of Google Earth Engine (GEE) is fundamentally tied to scale and near instant access to massive satellite imagery data. This clicked for me in particular from seeing analogous processes struggle to run and oftentimes crash in ArcGIS. As such, this document will provide an overview of the GEE working environment and relate its functionality back to ArcGIS through some examples. My aim is for you to see both the incredible upside, some of the quirks of a powerful geospatial tool built by computer scientists, and its current limitations.
@@ -37,7 +37,7 @@ I often use this first one just to check if imagery is available in a potential 
 
 * [NDVI & NDWI Calculated on above Jordan Lake Area Sentinel-2 Image](https://code.earthengine.google.com/504d94f3d395431e54aa8db808ee5fec)
 
-### Simple Analyseses Examples
+### Simple Analysis Examples
 * [Tasseled Cap Transformation for Landsat-7 Scene in NC](https://code.earthengine.google.com/4f4597313c868a15f17e072dbf2fb7eb)
 
 * [Temporal NDVI User-Interface at HUC12 Watershed level in Appalachia](https://code.earthengine.google.com/d57044ac966ccf89116a05ff8f99f870)

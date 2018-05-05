@@ -1,11 +1,11 @@
 # ArcGIS to Google Earth Engine
-For ArcGIS users looking to make the not-so-subtle leap to Google Earth Engine
+For ArcGIS users looking to make the not-so-subtle leap to Google Earth Engine.
 
 ### First Things First
 Sign-up for Google Earth Engine here: https://earthengine.google.com/new_signup/
 
 ## Objective:
-The beauty of Google Earth Engine (GEE) is fundamentally tied to scale and near instant access to massive satellite imagery data. This clicked for me in particular from seeing analogous processes struggle to run and oftentimes crash in ArcGIS. As such, this document will provide an overview of the GEE working environment and relate its functionality back to ArcGIS through some examples. My aim is for you to see both the incredible upside, some of the quirks of a powerful geospatial tool built by computer scientists, and its current limitations.
+The beauty of Google Earth Engine (GEE) is fundamentally tied to scale and near instant access to massive amounts of satellite imagery data. This clicked for me in particular from seeing analogous processes struggle to run and oftentimes crash in ArcGIS. As such, this document will provide an overview of the GEE working environment and relate its functionality back to ArcGIS through some examples. My aim is for you to see both the incredible upside, some of the quirks of a powerful geospatial tool built by computer scientists, and its current limitations.
 
 ## Data Types:
 As in any coding language, data types are essential to knowing what one can do. GEE is no exception and contains all the typical data types (e.g. float, string, integers, lists, dictionaries, etc.), however, the power of GEE is scaled geospatial data manipulations so for starters, a primer on the essential data types are highlighted below to translate ArcGIS knowledge into GEE-space.
